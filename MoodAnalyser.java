@@ -1,7 +1,5 @@
 package moodAnalyser;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-
 public class MoodAnalyser {
 
     private String moodMessage;
